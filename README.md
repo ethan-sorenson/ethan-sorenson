@@ -5,7 +5,7 @@ I am a technical consultant for a eOne Solutions, a software development company
 
 ## 🌱 I’m currently learning:
 - Working with [Dynamics AL](https://github.com/topics/al-language)
-- Improving my [Javascript](https://github.com/topics/javascript)
+- Improving my [JavaScript](https://github.com/topics/javascript)
 - Learning [Python](https://github.com/topics/python3) in my spare time
 
 ## :handshake: Let me buy you a drink:
