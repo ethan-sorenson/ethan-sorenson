@@ -8,13 +8,6 @@ I am a technical consultant for a eOne Solutions, a software development company
 - Improving my [JavaScript](https://github.com/topics/javascript)
 - Learning [Python](https://github.com/topics/python3) in my spare time
 
-## :handshake: Let me buy you a drink:
-Here is my ranking, but I'm open to anything!:smiley:
-1. Gin :cocktail:
-2. Wine :wine_glass:
-3. Beer :beer:
-4. Whiskey :tumbler_glass: 
-5. Coffee :coffee:
 
 ## 📫 Get in touch: 
 [![E-Mail](https://img.shields.io/badge/--email?label=E-mail&logo=microsoft-outlook&style=social)](mailto:ethan.sorenson@eonesolutions.com)
